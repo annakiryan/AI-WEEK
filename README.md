@@ -4,16 +4,6 @@
 
 **Команда**: Экспонента
 
-### Как запустить код
-
-В ноутбуке код уже был выполнен, но, если потребуется повторный запуск, придется вводить СВОИ API ключи. Для этого нужно открыть панель "секретов" слева и добавить ключи в формате:
-
-* COHERE_API_KEY : [cohere_api_key](https://dashboard.cohere.com/api-keys)
-* GEMINI_API_KEY : [gemini_api_key](https://aistudio.google.com/app/api-keys)
-* GROQ_API_KEY : [groq_api_key](https://console.groq.com/keys)
-
-**Для некоторых сайтов понадобится VPN**
-
 ## 1. Название задачи
 Перевод технических текстов с английского языка на русский
 
